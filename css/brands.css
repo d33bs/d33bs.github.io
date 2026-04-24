@@ -633,8 +633,20 @@
 }
 
 /* Cytomining ecosystem */
-.button-cytomining-ecosystem {
+.button-ome-arrow {
+    --button-text: #ffffff;
+    --button-background: #4a9d77;
+    --button-border: 1px solid #000000;
+}
+
+.button-iceberg-bioimage {
     --button-text: #000000;
-    --button-background: #ffffff;
+    --button-background: #aee5ff;
+    --button-border: 1px solid #000000;
+}
+
+.button-cytodataframe {
+    --button-text: #000000;
+    --button-background: #ffebfe;
     --button-border: 1px solid #000000;
 }
